@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwatobi Ojekanmi (@tobiojekanmi)
-- 👀 I’m actively interested in Machine Learning, Deep Learning, Computer Vision and its applications to Robotics.
+- 👀 I’m actively interested in Machine Learning, Deep Learning, Computer Vision and their applications to Robotics.
 - 🌱 I’m currently learning Deep Learning and Computer Vision.
 - 💞️ I’m looking to collaborate on image segmentation and object detection techniques and applications in field and service robots.
 - 📫 You can reach me on oluwatobi.ojekanmi@gmail.com.
