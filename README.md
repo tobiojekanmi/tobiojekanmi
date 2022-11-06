@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Oluwatobi Ojekanmi (@tobiojekanmi)
-- 👀 I’m actively interested in Machine Learning, Deep Learning, Computer Vision and their applications to Robotics.
-- 🌱 I’m currently learning Deep Learning and Computer Vision.
-- 💞️ I’m looking to collaborate on image segmentation and object detection techniques and applications in field and service robots.
+- 👋 Hi, My name is Oluwatobi OJEKANMI (@tobiojekanmi).
+- 👀 I am currently pursuing a Master's degree towards Marine and Maritime Intelligent Robotics at Uinversite De Toulon. 
+- 🌱 I am willing to collaborate on various Artificial Intelligence and Robotics projects.
 - 📫 You can reach me on oluwatobi.ojekanmi@gmail.com.
 
 <!---
