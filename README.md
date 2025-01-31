@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Oluwatobi Ojekanmi (@tobiojekanmi).
-- 👀 I am currently a second-year master's student of Marine and Maritime Intelligent Robotics at NTNU, Trondheim. 
+- 👀 I am an AI engineer with seasoned experience solving complex computer vision and natural language processing tasks. 
 - 🌱 I am available to collaborate on various Artificial Intelligence and Robotics projects.
 - 📫 You can reach me at oluwatobi.ojekanmi@gmail.com.
 
